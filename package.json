@@ -1,0 +1,24 @@
+{
+  "name": "single-page-application",
+  "version": "1.0.0",
+  "description": "This is a project demo that uses Vanilla JS to build a Single Page Application.",
+  "main": "server.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Lori Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "handlebars": "^4.0.12",
+    "jquery": "^3.3.1",
+    "semantic-ui-calendar": "0.13.0",
+    "semantic-ui-css": "^2.4.1",
+    "vanilla-router": "^1.2.7"
+  }
+}
